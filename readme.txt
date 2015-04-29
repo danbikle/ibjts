@@ -32,3 +32,19 @@ echo 'export PATH=~/idea/bin:$PATH' >> ~/.bashrc
 Start IntelliJ:
 
 ~/idea/bin/idea.sh
+
+Activate: Import Project
+
+You want this folder fed to Import-Project: ibjts
+
+Click through Import-Project wizard accepting all defaults.
+
+If all goes well you should have a new project.
+
+It should have two modules.
+
+The corresponding folders should be these:
+
+ibjts/samples/
+ibjts/source/
+
