@@ -19,7 +19,7 @@ I got this file:
 ~/Downloads/ideaIC-14.1.2.tar.gz
 Maybe you will get something newer.
 
-Install it, Demo:
+Install it. Demo:
 
 tar zxf ~/Downloads/ideaIC-14.1.2.tar.gz
 
