@@ -100,4 +100,8 @@ If a Swing client appears and it allows me to connect to the TWS-API-server,
 I am happy.
 
 Holler if you have questions:
-dan@bot4.us (add not-spam to subject)
+
+dan@bot4.us
+
+(add not-spam to subject)
+
