@@ -1,37 +1,51 @@
-ibjts/readme.txt
+readme.md
 
-Login to your ubuntu box or laptop.
+Login to your ubuntu box, ubuntu laptop, or ubuntu virtualbox.
 
 If you have no git on your ubuntu, install it like this:
 
+```
 apt-get install gitk
+```
 
 After git install, do this:
 
+```
 cd ~
 git clone https://github.com/danbikle/ibjts.git
+```
 
 Download IntelliJ:
 
 https://www.jetbrains.com/idea/download/
 
+
 I got this file:
+
+```
 ~/Downloads/ideaIC-14.1.2.tar.gz
+```
+
 Maybe you will get something newer.
 
 Install it. Demo:
 
+```
 tar zxf ~/Downloads/ideaIC-14.1.2.tar.gz
-
 ln -s idea-IC-141.713.2 idea
+```
 
 Enhance your path:
 
+```
 echo 'export PATH=~/idea/bin:$PATH' >> ~/.bashrc
+```
 
 Start IntelliJ:
 
+```
 ~/idea/bin/idea.sh
+```
 
 Activate: Import Project
 
@@ -45,8 +59,10 @@ It should have two modules.
 
 The corresponding folders should be these:
 
+```
 ibjts/samples/
 ibjts/source/
+```
 
 Next, find $10k Minimum (or IRA account) to open Interactive Brokers Account.
 
@@ -85,8 +101,3 @@ I am happy.
 
 Holler if you have questions:
 dan@bot4.us (add not-spam to subject)
-
-
-
-
-
