@@ -67,8 +67,10 @@ http://www.google.com/search?q=Interactive+Brokers+Download+Trader+Workstation
 
 After I download TWS, I can start it with one line of code:
 
+```
 cd ~/IBJts/
 java -cp jts.jar:total.2013.jar -Xmx512M -XX:MaxPermSize=256M jclient.LoginFrame . &
+```
 
 Once it is up I configure it to act as an API server:
 
